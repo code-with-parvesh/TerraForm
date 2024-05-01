@@ -2,8 +2,8 @@
 Designing and implementing infrastructure provisioning leveraging AWS Cloud through Terraform for the final project
 
 
-# *BELOW ARE THE SERVICES COMPLETED IN THIS PROJECT
-
+# BELOW ARE THE SERVICES COMPLETED IN THIS PROJECT
+https://docs.aws.amazon.com/images/architecture-diagrams/latest/high-performance-computing-on-aws/images/high-performance-computing.png
 # *Compute Service's*
 1. Aws lambda
 2. Ec2 instance 
