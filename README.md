@@ -1,6 +1,7 @@
 # TerraForm
 Designing and implementing infrastructure provisioning leveraging AWS Cloud through Terraform for the final project
 
+
 # *BELOW ARE THE SERVICES COMPLETED IN THIS PROJECT*
 
 # *Compute Service's*
@@ -13,9 +14,9 @@ Designing and implementing infrastructure provisioning leveraging AWS Cloud thro
 3. Dynamodb 
 # *Monitoring Service's*
 1. Aws cloud trail 
-2. SNS 
+2. Aws config (SNS)
 3. Aws cloud watch 
-4. SQS 
+
 # *Networking Service's*
 1. IAM
 2. Route 53 
